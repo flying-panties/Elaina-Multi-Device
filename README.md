@@ -6,7 +6,7 @@
 ![Elaina Banner](https://o.uguu.se/YtfwEgwU.jpg)
 
 _🌸 Elaina Multi Device_
-
+```
 
 
 
@@ -15,7 +15,7 @@ _🌸 Elaina Multi Device_
 
 
 
-
+```
 ## For Termux/Ubuntu/SSH User
 ```bash
 git clone https://github.com/flying-panties/Base-Bot-WhatsApp.git
