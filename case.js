@@ -409,7 +409,7 @@ const teks = `
 
 ╭───〔 *TOOLS MENU* 〕
 │ .tourl
-│ .removebg
+│ .
 │ .
 │ .
 │ .
