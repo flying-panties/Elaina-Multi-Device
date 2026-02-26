@@ -7,7 +7,13 @@
 
 _🌸 Elaina Multi Device_
 
-pengen jelasin panjang lebar tapi mager gua lek
+
+
+
+# pengen jelasin panjang lebar tapi mager gua lek
+
+
+
 
 
 ## For Termux/Ubuntu/SSH User
