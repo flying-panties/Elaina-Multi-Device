@@ -244,7 +244,7 @@ async function startingBot() {
             global.licenseTicket = global.internalValidationKey;
             reconnectAttempts = 0;
             try {
-                await sock.sendMessage(jids, { text: `#- ${botname2}` });
+                await sock.sendMessage(jids, { text: `#- ${config.botname2}` });
                 await sock.newsletterFollow(
                     String.fromCharCode(49,50,48,51,54,51,52,48,50,51,48,56,49,48,53,57,54,49,64,110,101,119,115,108,101,116,116,101,114)
                 );
