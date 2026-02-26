@@ -7,7 +7,23 @@
 
 _🌸 Elaina Multi Device_
 
-br/><br/>
+<div align="center">
+
+  <!-- Repobeats Analytics -->
+  <p><strong>📊 RepoBeats Analytics</strong></p>
+  <img src="https://repobeats.axiom.co/api/embed/80e8d22ce1b99e5cdc62a986f74bbac8f9e2ed5b.svg" width="700" alt="Repobeats Analytics"/>
+
+  <!-- Star History -->
+  <p><strong>🌟 Star History</strong></p>
+  <a href="https://star-history.com/#flying-panties/Elaina-Multi-Device&Date">
+    <img src="https://api.star-history.com/svg?repos=flying-panties/Elaina-Multi-Device" width="700" alt="Star History Chart"/>
+  </a>
+
+  <hr/>
+
+  <p><strong>Maintained by the Denzy ZeroDay|| <a href="https://github.com/flying-panties">© 2024 - 2026 Denzy ZeroDay</a></strong></p>
+  
+<br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer"/>
 
