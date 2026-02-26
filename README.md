@@ -6,3 +6,9 @@
 ![Elaina Banner](https://o.uguu.se/YtfwEgwU.jpg)
 
 _🌸 Elaina Multi Device_
+
+br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer"/>
+
+</div>
