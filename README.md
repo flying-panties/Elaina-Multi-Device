@@ -18,7 +18,7 @@ _🌸 Elaina Multi Device_
 ```
 ## For Termux/Ubuntu/SSH User
 ```bash
-git clone https://github.com/flying-panties/Base-Bot-WhatsApp.git
+git clone https://github.com/flying-panties/Elaina-Multi-Device.git
 cd Elaina-Multi-Device
 npm install
 npm start
