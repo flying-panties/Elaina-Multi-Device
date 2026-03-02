@@ -38,7 +38,7 @@ npm start
 
   <hr/>
 
-  <p><strong>Maintained by the Denzy ZeroDay|| <a href="https://github.com/flying-panties">© 2024 - 2026 Denzy ZeroDay</a></strong></p>
+  <p><strong>Maintained by the Denzy ZeroDay|| <a href="https://github.com/flying-panties">© 2025 - 2026 Denzy ZeroDay</a></strong></p>
   
 <br/><br/>
 
