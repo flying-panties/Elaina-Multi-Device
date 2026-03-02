@@ -10,7 +10,7 @@ _🌸 Elaina Multi Device_
 
 
 
-# pengen jelasin panjang lebar tapi mager gua lek
+# pengen jelasin panjang lebar tapi mager gua lek, btw jangan lupa hidupin star 🌟 nya
 
 
 
@@ -19,7 +19,7 @@ _🌸 Elaina Multi Device_
 ## For Termux/Ubuntu/SSH User
 ```bash
 git clone https://github.com/flying-panties/Base-Bot-WhatsApp.git
-cd Base-Bot-WhatsApp
+cd Elaina-Multi-Device
 npm install
 npm start
 ```
