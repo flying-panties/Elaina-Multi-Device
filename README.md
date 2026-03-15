@@ -13,7 +13,7 @@ _🌸 Elaina Multi Device_
 ## pengen jelasin panjang lebar tapi mager gua lek, btw jangan lupa hidupin star 🌟 nya
 
 ```
-# tes
+# test
 ```
 ```
 ## For Termux/Ubuntu/SSH User
